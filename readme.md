@@ -6,7 +6,7 @@
 </p>
 <details align="center">
    <summary> <samp>&#9776; Details</samp></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=fmgornick&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fmgornick&hide_border=true&show_icons=true&bg_color=272c32&text_color=b1bac4&icon_color=bba6ff"></img><br>
     <samp>Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/fmgornick/code/blob/main/latex/resume/resume.pdf">Resumé</a><br></samp>
 </details>
 <br>
