@@ -5,11 +5,10 @@
   </samp>
 </p>
 <details align="center">
-<summary><samp>details</samp></summary><br>
+<summary><samp>details</samp></summary>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fmgornick&theme=tokyonight"></img>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fmgornick&theme=tokyonight"></img><br>
 </details>
-<br>
 <samp>
   <p align="center">
     ═════ 󰈷 ═════<br>
