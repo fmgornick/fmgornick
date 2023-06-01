@@ -1,5 +1,5 @@
 <h3 align="center"><samp>Fletcher Gornick</samp></h3>
-<p align="center"><br>
+<p align="center">
   <samp>
     <a href="https://fletcher.gornick.dev/">website</a> • <a href="https://fletcher.gornick.dev/resume/">résumé</a> • <a href="https://github.com/fmgornick/dots.git/">dotfiles</a>
   </samp>
