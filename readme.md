@@ -7,7 +7,7 @@
 <details align="center">
 <summary><samp>details</samp></summary>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fmgornick&theme=tokyonight"></img>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fmgornick&theme=tokyonight"></img><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fmgornick&theme=tokyonight"></img>
 </details>
 <samp>
   <p align="center">
